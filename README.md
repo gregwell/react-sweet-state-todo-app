@@ -9,7 +9,7 @@
 
 # Motivation:
 
-This simple app originally come from [redux todo list example](https://redux.js.org/tutorials/fundamentals/part-5-ui-react), then was [converted from redux to react-sweet-state by @matterialize](https://github.com/matterialize/todos-redux-to-react-sweet-state) and finally I drew two maps to understand react-sweet-state logic.
+This simple app originally come from [redux todo list example](https://redux.js.org/tutorials/fundamentals/part-5-ui-react), then was [converted from redux to react-sweet-state](https://github.com/matterialize/todos-redux-to-react-sweet-state) by [@mattbajorek](https://github.com/mattbajorek) and finally I drew two maps to understand react-sweet-state logic.
 
 # Data flow map:
 
