@@ -66,6 +66,8 @@ addTodo: text => ({ setState }) => {
 
 ## A study based on:
 
+[https://atlassian.github.io/react-sweet-state/#/](https://atlassian.github.io/react-sweet-state/#/)
+
 [https://medium.com/@matthew.bajorek/react-sweet-state-intro-304ce0a619bd](https://medium.com/@matthew.bajorek/react-sweet-state-intro-304ce0a619bd)
 
 [https://www.emgoto.com/react-sweet-state/](https://www.emgoto.com/react-sweet-state/)
