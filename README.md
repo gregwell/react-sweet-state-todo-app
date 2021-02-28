@@ -7,7 +7,7 @@ This simple app originally come from [redux todo list example](https://redux.js.
 ### Goals:
 
 1. **Understand react-sweet-state data flow logic as an alternative to Redux.**
-    - see that using redux is not mandatory
+    - using redux is not mandatory
     - understand the real goals of state management in React
     - compare an app without any state management system, an app with redux and an app with react-sweet-state and draw conclusions
 2. **Apply Material-ui framework components to beautify the app.**
