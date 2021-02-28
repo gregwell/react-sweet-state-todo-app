@@ -36,7 +36,7 @@ This simple app originally come from [redux todo list example](https://redux.js.
 
 ## Data flow map:
 
-![https://raw.githubusercontent.com/gregwell/react-sweet-state-todo-app/master/images/react-sweet-state.png](https://raw.githubusercontent.com/gregwell/react-sweet-state-todo-app/master/images/react-sweet-state.png)
+![images/react-sweet-state.png](images/react-sweet-state.png)
 
 ## How things work:
 
@@ -81,7 +81,8 @@ addTodo: text => ({ setState }) => {
 
 ## A roadmap to show and toggle todos
 
-![https://raw.githubusercontent.com/gregwell/sweet/master/images/show-todos-and-allow-toggle.png](https://raw.githubusercontent.com/gregwell/sweet/master/images/show-todos-and-allow-toggle.png)
+
+<img width="100" src="images/show-todos-and-allow-toggle.png">
 
 # Planning new features
 
@@ -114,6 +115,8 @@ addTodo: text => ({ setState }) => {
 ![https://raw.githubusercontent.com/gregwell/react-sweet-state-todo-app/master/images/layout.png](https://raw.githubusercontent.com/gregwell/react-sweet-state-todo-app/master/images/layout.png)
 
 ### Planned new layout:
+![images/sweet-todo-layout.png](images/sweet-todo-layout.png)
+
 
 ## A study based on:
 
