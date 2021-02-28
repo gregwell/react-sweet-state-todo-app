@@ -81,8 +81,9 @@ addTodo: text => ({ setState }) => {
 
 ## A roadmap to show and toggle todos
 
-
-<img width="100" src="images/show-todos-and-allow-toggle.png">
+<p align="center">
+<img width="650" src="images/show-todos-and-allow-toggle.png">
+</p> 
 
 # Planning new features
 
@@ -112,7 +113,9 @@ addTodo: text => ({ setState }) => {
 
 ### Initial layout:
 
-![https://raw.githubusercontent.com/gregwell/react-sweet-state-todo-app/master/images/layout.png](https://raw.githubusercontent.com/gregwell/react-sweet-state-todo-app/master/images/layout.png)
+<p align="center">
+    <img src="images/layout.png">
+</p>
 
 ### Planned new layout:
 ![images/sweet-todo-layout.png](images/sweet-todo-layout.png)
