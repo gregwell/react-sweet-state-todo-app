@@ -10,6 +10,8 @@ const Button = styled.button`
   margin: 0 1em;
   padding: 0.25em 1em;
 `
+//find sample project with use of styled-components to see where are kept the styles,
+// maybe in a additional file?
 
 const AddTodo = () => {
   let input

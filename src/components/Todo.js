@@ -1,5 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import { Checkbox } from 'antd'
+import 'antd/dist/antd.css'
+
 
 const Todo = ({ onClick, completed, text }) => (
   <li

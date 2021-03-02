@@ -9,6 +9,6 @@ export const VisibilityFilters = {
 
 const initialState = VisibilityFilters.SHOW_ALL
 
-const todosStore = createStore({ initialState, actions })
+const visibilityFilterStore = createStore({ initialState, actions })
 
-export default todosStore
+export default visibilityFilterStore

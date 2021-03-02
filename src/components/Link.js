@@ -1,18 +1,10 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import styled from 'styled-components'
-
-const Button = styled.button`
-  background: transparent;
-  border-radius: 3px;
-  border: 2px solid palevioletred;
-  color: palevioletred;
-  margin: 0 1em;
-  padding: 0.25em 1em;
-`
+import { Button } from 'antd'
+import 'antd/dist/antd.css';
 
 const Link = ({ active, children, onClick }) => (
-    <Button
+    <Button type="primary"
        onClick={onClick}
        disabled={active}
        style={{
