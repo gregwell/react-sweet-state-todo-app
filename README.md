@@ -12,8 +12,8 @@ This simple app originally come from [redux todo list example](https://redux.js.
     - compare an app without any state management system, an app with redux and an app with react-sweet-state and draw conclusions
 2. **Redesign and apply Material-ui framework components to beautify the app.**
     - design a new Material-ui based look for the application and apply it.
-3. **Add new features to the existing app.**
-    - adding new functionality requires understanding the data flow
+3. **Completely rebuild the app.**
+    - adding new functionalities requires understanding the data flow and React multi-file project structure
 
 ### Table of contents:
 
