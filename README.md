@@ -20,8 +20,7 @@ This simple app originally come from [redux todo list example](https://redux.js.
 **Understanding react-sweet-state:**
 
 - [Data flow map](#data-flow-map)
-- [How things work](#how-things-work)
-- [Roadmap to show and toggle todos](#roadmap-to-show-and-toggle-todos)
+- [External notes](#external-notes)
 
 **Planning:**
 
@@ -38,52 +37,10 @@ This simple app originally come from [redux todo list example](https://redux.js.
 
 ![images/react-sweet-state.png](images/react-sweet-state.png)
 
-## How things work:
+## External notes:
 
-### A hook without a selector
+- [react #react-sweet-state](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md#react-sweet-state)
 
-- the selector in the first hook of `todoSelectors` is **`null` - i**t's because **this hook is used only to access the actions, doesn't need any data.**
-
-```css
-const todoSelectors = {
-  **useTodosActions: null,**
-  useVisibleTodos: (todos, visibilityFilter) => {
-    something...
-    }
-  }
-}
-```
-
-- then we make use of this hook, we **ignore the first element in the array.**
-
-```css
-const [, { addTodo }] = todosSelectors.useTodosActions()
-```
-
-- this way we get the access to the `addTodo` action:
-
-```css
-addTodo: text => ({ setState }) => {
-      setState(todos => {
-        todos.push({
-          id: nextTodoId++,
-          text,
-          completed: false
-        })
-      })
-    },
-```
-
-### Understanding `setState`
-
-- sweet-state will handle providing the `setState` parameter behind the scenes
-- when we call `setState` it will do **a shallow merge** with what is currently in the store (example: `setState({ listName })` :`{ ...state, listName }`)
-
-## A roadmap to show and toggle todos
-
-<p align="center">
-<img width="650" src="images/show-todos-and-allow-toggle.png">
-</p> 
 
 # Planning new features
 
