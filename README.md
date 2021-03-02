@@ -10,10 +10,9 @@ This simple app originally come from [redux todo list example](https://redux.js.
     - using redux is not mandatory
     - understand the real goals of state management in React
     - compare an app without any state management system, an app with redux and an app with react-sweet-state and draw conclusions
-2. **Apply Material-ui framework components to beautify the app.**
+2. **Redesign and apply Material-ui framework components to beautify the app.**
     - design a new Material-ui based look for the application and apply it.
-3. **Expand the capabilities of an existing app.**
-    - add a few more features to fully understand the data flow
+3. **Add new features to the existing app.**
 
 ### Table of contents:
 
