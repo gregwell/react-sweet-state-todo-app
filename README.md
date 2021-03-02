@@ -13,6 +13,7 @@ This simple app originally come from [redux todo list example](https://redux.js.
 2. **Redesign and apply Material-ui framework components to beautify the app.**
     - design a new Material-ui based look for the application and apply it.
 3. **Add new features to the existing app.**
+    - adding new functionality requires understanding the data flow
 
 ### Table of contents:
 
