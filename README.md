@@ -30,6 +30,7 @@ This simple app originally come from [redux todo list example](https://redux.js.
 
 **Development:**
 
+- [Selected Material-ui components](#selected-material-ui-components)
 - [Development](#development)
 
 
@@ -69,15 +70,19 @@ This simple app originally come from [redux todo list example](https://redux.js.
 
 # Planning new layout
 
-### Initial layout:
+### Initial layout
 
 <p align="center">
     <img src="images/layout.png">
 </p>
 
-### Planned new layout:
+### Planned new layout
 ![images/sweet-todo-layout.png](images/sweet-todo-layout.png)
 
+### Selected Material-ui components
+![images/sweet-todo-layout.png](images/material-ui-components-to-use.png)
+
+### Development
 
 ## A study based on:
 
