@@ -14,7 +14,7 @@ This simple app originally come from [redux todo list example](https://redux.js.
     - design a new material layout of the application and apply it.
 3. **Completely rebuild the app.**
     - adding new functionalities requires understanding the data flow and React multi-file project structure.
-    - keeping the initial features & adding new and according to new trends is like working for a real customer.
+    - keeping the initial features + adding new ones and adapting to the latest design trends is like working for a real customer.
 
 ### Table of contents:
 
