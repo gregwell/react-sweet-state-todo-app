@@ -1,6 +1,6 @@
 # React Sweet State TODO app
 
-**Created:** 23.02.2021, **last updated:** 02.02.2021
+**Created:** 23.02.2021, **last updated:** 02.03.2021
 
 This simple app originally come from [redux todo list example](https://redux.js.org/tutorials/fundamentals/part-5-ui-react), then was [converted from redux to react-sweet-state](https://github.com/matterialize/todos-redux-to-react-sweet-state) by [@mattbajorek](https://github.com/mattbajorek). Along the way, I created *my very first pull request* to fix the mistake with the names! 😎 I drew two mind maps to understand react-sweet-state data flow. Then I planned some new features and designed a new Material-ui based layout and I'm going to apply it. Finally I want to completely rebuild the application and add new functionalities
 
